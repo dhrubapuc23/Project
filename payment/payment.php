@@ -13,7 +13,7 @@ require('config.php');
 		data-name="Payment with stripe"
 		data-description="Payment with stripe"
 		data-currency="BDT"
-		data-email="project2btested@gmail.com"
+		data-email="yourEmail@gmail.com"
 	>
 </script>
 
